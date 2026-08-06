@@ -11,7 +11,7 @@ const navLinks = [
   { name: 'FAQ', href: '#faq' },
 ];
 
-const REGISTER_LINK = 'https://forms.google.com';
+const REGISTER_LINK = 'https://docs.google.com/forms/d/e/1FAIpQLSdXM_XIwY7rdS5q4uKdchKY4b5mYA9mG0wVrrdg7MFZ8sLE5w/viewform';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

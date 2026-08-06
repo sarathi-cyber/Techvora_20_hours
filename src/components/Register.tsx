@@ -2,7 +2,7 @@ import { useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
 import { ArrowRight, Zap } from 'lucide-react';
 
-const REGISTER_LINK = 'https://forms.google.com';
+const REGISTER_LINK = 'https://docs.google.com/forms/d/e/1FAIpQLSdXM_XIwY7rdS5q4uKdchKY4b5mYA9mG0wVrrdg7MFZ8sLE5w/viewform';
 
 const stats = [
   { value: '100%', label: 'Free Access' },

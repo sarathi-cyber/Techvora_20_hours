@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { CodeXml, Mail, Phone, MapPin } from 'lucide-react';
 
-const REGISTER_LINK = 'https://forms.google.com';
+const REGISTER_LINK = 'https://docs.google.com/forms/d/e/1FAIpQLSdXM_XIwY7rdS5q4uKdchKY4b5mYA9mG0wVrrdg7MFZ8sLE5w/viewform';
 
 const navLinks = [
   { name: 'Home', href: '#hero' },
